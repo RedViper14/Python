@@ -1,6 +1,7 @@
 dresses
 food
 travel cost
+party
 
 
 Thank you
